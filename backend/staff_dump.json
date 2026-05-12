@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "69c812a7e6d25f2be86c83aa",
+    "categoryId": "6975c25a67dab1cbc1e814b7",
+    "name": "Ujjwol Thapa",
+    "email": "shuvamshres11@gmail.com",
+    "address": "imadol, lalitpur",
+    "phone": "9800633855",
+    "image": "uploads\\staff\\1774719654826-635915207.jpg",
+    "category": "Cleaning",
+    "role": "staff",
+    "password": "$2b$10$bThfC0oHSVZcErzhZgYS..x8FcFvrWOHXl.1ORCEOiAsdY1.LBUp2",
+    "isApproved": false,
+    "__v": 0
+  }
+]
